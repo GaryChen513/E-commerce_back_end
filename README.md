@@ -24,6 +24,7 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
   * `git clone https://github.com/GaryChen513/E-commerce_back_end.git`
 * Navigate to the root directory and run:
   * `npm install`
+* Set your local enviroment configuration in `.env` file
 * To start the server, in the command line run:
   * `npm start`
 

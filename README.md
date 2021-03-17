@@ -12,7 +12,7 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
 
 - [Description](#description)
 - [Installation](#installation)
-- [Tech Used](#tech Used)
+- [Tech Used](#tech-used)
 - [License](#license)
 - [Contribution](#contributing)
 - [Tests](#tests)

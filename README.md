@@ -12,7 +12,7 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
 
 - [Description](#description)
 - [Installation](#installation)
-- [Tech Used](#Tech Used)
+- [Tech Used](#tech used)
 - [License](#license)
 - [Contribution](#contributing)
 - [Tests](#tests)
@@ -21,11 +21,11 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
 ## Installation
 * Both Node.js and MySQL must be installed on your computer
 * Clone the reto by copying and pasting in your command line:
-** 'git clone https://github.com/GaryChen513/E-commerce_back_end.git'
+  * `git clone https://github.com/GaryChen513/E-commerce_back_end.git`
 * Navigate to the root directory and run:
-** 'npm install'
+  * `npm install`
 * To start the server, in the command line run:
-** 'npm start'
+  * `npm start`
 
 
 
